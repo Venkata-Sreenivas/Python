@@ -1,4 +1,4 @@
-##Accept 2 numbers from the user findout Sum, Subtraction, Multiplication, Division 2 numbers
+##Accept 2 numbers from the user findout Sum, Subtraction, Multiplication, Division of 2 numbers
 
 ##Aprocach 1
 a=input("Enter a Number: ")
@@ -157,4 +157,5 @@ a, b = int(input()), int(input())
 
 c = a / b
 print("Division is:", c)
+
 
