@@ -1,7 +1,7 @@
 '''L.copy()--->Shallow copy of list
 process of creating alternative for exsisted collection is known as reference copy
 Process of creating Duplicate collection is known as shallow copy
-what is the difference between ref.copy vs shallow copy'''
+'''
 
 a=[10,20,30]
 print("List a: ",a)
